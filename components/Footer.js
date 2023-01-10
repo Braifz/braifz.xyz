@@ -11,7 +11,7 @@ const Footer = () => {
       <Link
         className="border-solid border-r-4 border-lime-500 w-32 flex items-center justify-center hover:bg-lime-500"
         target="_blank"
-        href="https://braifz.hashnode.dev/"
+        href="https://www.linkedin.com/in/braian-f-ba90291a8/"
       >
         <Image
           className="invert hover:invert-0"
@@ -23,7 +23,7 @@ const Footer = () => {
       <Link
         className="border-solid border-r-4 border-l-4 border-lime-500 w-32 flex items-center justify-center hover:bg-lime-500 "
         target="_blank"
-        href="https://braifz.hashnode.dev/"
+        href="https://github.com/Braifz"
       >
         <Image
           className="invert hover:invert-0"
@@ -35,7 +35,7 @@ const Footer = () => {
       <Link
         className="border-solid border-l-4 border-lime-500 w-32 flex items-center justify-center hover:bg-lime-500"
         target="_blank"
-        href="https://braifz.hashnode.dev/"
+        href="https://twitter.com/braifz"
       >
         <Image
           className="invert hover:invert-0"
